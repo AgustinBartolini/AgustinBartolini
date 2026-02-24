@@ -1,9 +1,6 @@
 # ¡Hola! Soy Agustín Bartolini 👋
 
-## Full Stack Developer | Team Leader | Web Developer
-
-### 📍 Ubicación
-**Asturias** 🇪🇸
+## Team Leader | Java Web Developer
 
 ### 💼 Sobre mí
 
